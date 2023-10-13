@@ -1,0 +1,37 @@
+< THE SYMBOL TABLE >  BAUET.bin  --  emu8086 assembler version: 4.08 
+===================================================================================================
+Name                     	Offset    	Size      	Type      	Segment   
+===================================================================================================
+CODE                     	00000     	-5        	SEGMENT   	(ITSELF)  
+L1                       	00004     	-1        	LABEL     	CODE      
+L2                       	00009     	-1        	LABEL     	CODE      
+L3                       	00021     	-1        	LABEL     	CODE      
+DELAY                    	00021     	-1        	LABEL     	CODE      
+DELAY0                   	00024     	-1        	LABEL     	CODE      
+L4                       	0002B     	-1        	LABEL     	CODE      
+L5                       	00043     	-1        	LABEL     	CODE      
+DELAY1                   	00043     	-1        	LABEL     	CODE      
+DELAY2                   	00046     	-1        	LABEL     	CODE      
+L6                       	0004D     	-1        	LABEL     	CODE      
+L7                       	00065     	-1        	LABEL     	CODE      
+DELAY3                   	00065     	-1        	LABEL     	CODE      
+DELAY4                   	00068     	-1        	LABEL     	CODE      
+L8                       	0006F     	-1        	LABEL     	CODE      
+L9                       	00087     	-1        	LABEL     	CODE      
+DELAY5                   	00087     	-1        	LABEL     	CODE      
+DELAY6                   	0008A     	-1        	LABEL     	CODE      
+L10                      	00091     	-1        	LABEL     	CODE      
+L11                      	000A9     	-1        	LABEL     	CODE      
+DELAY7                   	000A9     	-1        	LABEL     	CODE      
+DELAY8                   	000AC     	-1        	LABEL     	CODE      
+TIMER                    	000B1     	-1        	LABEL     	CODE      
+TIMER1                   	000B4     	-1        	LABEL     	CODE      
+FONT1                    	000BA     	-1        	LABEL     	CODE      
+FONT2                    	000C2     	-1        	LABEL     	CODE      
+FONT3                    	000CA     	-1        	LABEL     	CODE      
+FONT4                    	000D2     	-1        	LABEL     	CODE      
+FONT5                    	000DA     	-1        	LABEL     	CODE      
+===================================================================================================
+[ 10/8/2023  --  10:21:58 AM ] 
+< END >
+ 
